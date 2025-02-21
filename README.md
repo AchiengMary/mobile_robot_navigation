@@ -2,7 +2,7 @@
 
 The Mobile Robot Navigation project is designed to enable autonomous and semi-autonomous navigation for mobile robots in dynamic environments. This project includes path planning, obstacle avoidance, and localization using various algorithms.
 
-Features
+## Features
 
 Path Planning: Implements simple algorithms like A* and Dijkstra for route selection.
 
@@ -12,7 +12,7 @@ Localization & Mapping: Supports simple SLAM (Simultaneous Localization and Mapp
 
 Simulation: Uses Gazebo for testing and validating navigation strategies.
 
-Technologies Used
+## Technologies Used
 
 Programming Languages: Python, C++
 
