@@ -1,0 +1,22 @@
+running develop
+running egg_info
+creating mobile_dd_robot.egg-info
+writing mobile_dd_robot.egg-info/PKG-INFO
+writing dependency_links to mobile_dd_robot.egg-info/dependency_links.txt
+writing requirements to mobile_dd_robot.egg-info/requires.txt
+writing top-level names to mobile_dd_robot.egg-info/top_level.txt
+writing manifest file 'mobile_dd_robot.egg-info/SOURCES.txt'
+reading manifest file 'mobile_dd_robot.egg-info/SOURCES.txt'
+writing manifest file 'mobile_dd_robot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/lib/python3.12/site-packages/mobile-dd-robot.egg-link (link to .)
+
+Installed /home/achieng/robotics/robot_four/src/mobile_dd_robot/build/mobile_dd_robot
+running symlink_data
+creating /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/ament_index
+creating /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/ament_index/resource_index
+creating /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/ament_index/resource_index/packages
+symbolically linking /home/achieng/robotics/robot_four/src/mobile_dd_robot/build/mobile_dd_robot/resource/mobile_dd_robot -> /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/ament_index/resource_index/packages
+symbolically linking /home/achieng/robotics/robot_four/src/mobile_dd_robot/build/mobile_dd_robot/package.xml -> /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/mobile_dd_robot
+creating /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/mobile_dd_robot/launch
+creating /home/achieng/robotics/robot_four/src/mobile_dd_robot/install/mobile_dd_robot/share/mobile_dd_robot/model
